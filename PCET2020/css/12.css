@@ -1,0 +1,97 @@
+
+body{
+  font-family: 'Fondamento', cursive;
+
+}
+.head{
+  font-family: 'Permanent Marker', cursive;
+  color: red;
+}
+.shead{
+  font-family: 'Lobster', cursive;
+  color: blue;
+  font-style: italic;
+}
+.hrs{
+  border: 6px solid gray;
+ border-radius: 5px;
+}
+.logoimg{
+  height: 75px;
+  width: 75px;
+  float: left;
+}
+.logoimg2{
+  height: 65px;
+  width: 175px;
+  float: right;
+}
+.navbar-brand{
+  font-family: 'Carter One', cursive;
+}
+.nc{
+  font-family: 'Orbitron', sans-serif;
+  font-weight: bold;
+}
+.footer{
+  width: 200;
+  border: 2px solid gray;
+  border-radius: 15px;
+}
+.cen{
+  text-align: center;
+}
+.borborder{
+  border: 2px solid orange;
+  border-radius: 10px;
+}
+.jumbotron{
+  background: white;
+}
+.bmenu{
+  float: left;
+  margin-right: 200px;
+  text-align: center;
+  padding-left: 225px;
+  margin: 15px;
+  width: 150px;
+
+}
+.bmenu1{
+  clear: both;
+  text-align: center;
+  padding: 15px;
+  margin: 15px;
+}
+.bmenu2{
+  clear: both;
+  text-align: center;
+  padding: 15px;
+  margin: 15px;
+  width: 150px;
+}
+.col{
+  background: black;
+  color: white;
+  font-weight: bold;
+}
+.tada{
+  text-align: left;
+}
+.icon{
+
+  height: 40px;
+}
+#marcol{
+  color: red;
+  font-weight: bold;
+}
+#marc{
+  color: green;
+  font-weight: bold;
+}
+.subtitels{
+  font-weight: bold;
+    font-style: italic;
+    color: brown;
+}
